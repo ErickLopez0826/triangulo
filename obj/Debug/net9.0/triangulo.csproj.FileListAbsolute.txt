@@ -1,0 +1,14 @@
+C:\Users\erick\OneDrive\Programas onedrive\triangulo\bin\Debug\net9.0\triangulo.exe
+C:\Users\erick\OneDrive\Programas onedrive\triangulo\bin\Debug\net9.0\triangulo.deps.json
+C:\Users\erick\OneDrive\Programas onedrive\triangulo\bin\Debug\net9.0\triangulo.runtimeconfig.json
+C:\Users\erick\OneDrive\Programas onedrive\triangulo\bin\Debug\net9.0\triangulo.dll
+C:\Users\erick\OneDrive\Programas onedrive\triangulo\bin\Debug\net9.0\triangulo.pdb
+C:\Users\erick\OneDrive\Programas onedrive\triangulo\obj\Debug\net9.0\triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Programas onedrive\triangulo\obj\Debug\net9.0\triangulo.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Programas onedrive\triangulo\obj\Debug\net9.0\triangulo.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Programas onedrive\triangulo\obj\Debug\net9.0\triangulo.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Programas onedrive\triangulo\obj\Debug\net9.0\triangulo.dll
+C:\Users\erick\OneDrive\Programas onedrive\triangulo\obj\Debug\net9.0\refint\triangulo.dll
+C:\Users\erick\OneDrive\Programas onedrive\triangulo\obj\Debug\net9.0\triangulo.pdb
+C:\Users\erick\OneDrive\Programas onedrive\triangulo\obj\Debug\net9.0\triangulo.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Programas onedrive\triangulo\obj\Debug\net9.0\ref\triangulo.dll
